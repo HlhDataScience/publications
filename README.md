@@ -4,9 +4,10 @@ Welcome to my portfolio! Below is a collection of my publications and contributi
 
 ## Publications
 
-- [Adapting PromptORE for Modern History: Information Extraction from Hispanic Monarchy Documents of the XVIth Century](https://arxiv.org/abs/2406.00027)  
+- [Biased PromptORE: Enhancing Relation Extraction in Gendered Languages and Complex Texts – The Case of Spanish Documents from the XVI Century](https://arxiv.org/abs/2406.00027)  
   *Hèctor López Hidalgo, Michel Boeglin, David Kahn, Josiane Mothe, Diego Ortiz, David Panzoli*  
   Semantic relations among entities are a widely accepted method for relation extraction. PromptORE (Prompt-based Open Relation Extraction) was designed to improve relation extraction with Large Language Models on generalistic documents. This study introduces an adaptation of PromptORE to extract relations from specialized documents, particularly digital transcripts of trials from the Spanish Inquisition.
+  Pubñished in [ECIR 2025](https://ecir2025.eu/accepted-papers/)
 
 - [Análisis del discurso y pensamiento crítico](https://egregius.es/catalogo/analisis-del-discurso-y-pensamiento-critico/)  
   Coauthor of the book.  

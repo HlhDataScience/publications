@@ -42,4 +42,12 @@ Welcome to my portfolio! Below is a collection of my publications and contributi
    To enhance code reusability, we implement interfaces and abstract classes using Python's `protocol` and `abc` modules,
    promoting portability and  adaptability.
 
+- [DocsIngestionApi](https://github.com/HlhDataScience/DocsIngestionApi)
+   A FastAPI-based microservice for intelligent document processing. Upload Word documents (.docx),
+  automatically generate Q&A pairs using LLM-powered graphs, and store semantic representations in
+   Qdrant vector database. Built with modern Python
+   tools (uv, LangChain, LangGraph) for scalable document ingestion and semantic search capabilities.
+
+
+
 ---
